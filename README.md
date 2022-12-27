@@ -11,6 +11,12 @@ Linguagens e Frameworks
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
+##
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cadu4duarte&layout=compact=true&theme=radical)
+
+
 
 
 
