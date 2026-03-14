@@ -12,3 +12,4 @@ Linguagens e Frameworks
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="SQL" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge"/>
 <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+<img alt="TOTVS" src="https://img.shields.io/badge/TOTVS-ERP-blue?logo=totvs&logoColor=white"/>
